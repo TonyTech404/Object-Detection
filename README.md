@@ -24,7 +24,7 @@ Each application includes pre-trained models, inference scripts, and detailed in
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/yolov8-object-detection.git](https://github.com/TonyTech404/Object-Detection.git)
+   git clone https://github.com/TonyTech404/Object-Detection.git
 2. Install the required dependencies:
    ```bash
    pip install ultralytics opencv-python
